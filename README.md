@@ -1,6 +1,7 @@
-# exo7flutter_taches
+# Fultter | ToDoList
 
-Gestion de tâches
+Cette application Flutter est créé dans le cadre de mes études.
+C'est une simple ToDoList qui permet de créer, supprimer, et gérer l'état des tâches.
 
 ## Getting Started
 
